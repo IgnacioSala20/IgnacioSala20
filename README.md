@@ -5,7 +5,7 @@ Actualmente cursando tercer año en **UTN FRVM**
 
 ---
 
-### 💻 Habilidades técnicas
+### 💻 Habilidades
 
 - **Lenguajes de programación:** Python, Java, TypeScript  
 - **Frameworks y herramientas:** NestJS
