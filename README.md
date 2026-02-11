@@ -17,7 +17,7 @@
 ```typescript
 const ignacio = {
     ubicación: "Villa María, Córdoba 🇦🇷",
-    educación: "Ingeniería de Sistemas - UTN FRVM (4er año)",
+    educación: "Ingeniería de Sistemas - UTN FRVM (4to año)",
     enfoque: ["Backend Development", "Arquitectura de Sistemas", "Bases de Datos"],
     aprendiendo: ["NestJS", "Docker", "PostgreSQL", "React"],
     pasiones: ["Clean Code", "Sistemas Distribuidos", "Resolver problemas"],
