@@ -78,17 +78,11 @@ const ignacio = {
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgnacioSala20&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IgnacioSala20&theme=radical&hide_border=true)](https://github.com/IgnacioSala20)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IgnacioSala20&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioSala20&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
