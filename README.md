@@ -79,20 +79,27 @@ const ignacio = {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IgnacioSala20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioSala20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=FFFFFF&langs_count=6" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgnacioSala20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=FFFFFF)
+
 </div>
 
-<br/>
-
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=IgnacioSala20&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgnacioSala20&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3)
+
 </div>
 
-<br/>
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioSala20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=FFFFFF&langs_count=6)
+
+</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IgnacioSala20&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=IgnacioSala20&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15)
+
 </div>
 
 ---
