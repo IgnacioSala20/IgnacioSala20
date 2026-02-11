@@ -86,5 +86,20 @@ const ignacio = {
 
 ---
 
+## 📈 Actividad
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgnacioSala20&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgnacioSala20/IgnacioSala20/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgnacioSala20/IgnacioSala20/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 
 
